@@ -20,6 +20,7 @@ import java.util.ArrayList;
 public class MainActivity extends AppCompatActivity {
     ArrayList<String> items;
     ArrayAdapter<String> itemsAdapter;
+    //ListView lvItems;
     ListView lvItems;
 
 
